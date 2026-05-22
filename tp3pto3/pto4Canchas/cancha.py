@@ -16,17 +16,10 @@ class Cancha:
     def numero(self):
         return self.__numero
 
-
-
-
-
-
-
-
     def reservarturno(self,nuevoturno):
         if nuevoturno.horario<time(14,0) and turnos.horario>time(23,0):
             return False
-        for turnos in self.__listadeturnos():
+        for turnos in self.__listadeturnos:
             if nuevoturno.horario ==turnos.horario:
                 return False                    
         self.__listadeturnos.append(nuevoturno)
@@ -34,15 +27,14 @@ class Cancha:
     
     def cancelarturno(self, horario):
 
-        for turno in self.__listadeturnos():
+        for turno in self.__listadeturnos:
             if turno.horario==horario:
                 self.__listadeturnos.remove(turno)
                 return True
         return False
     
 
-    def str(self):
-       
+    def __str__(self):      
         texto = f"Cancha nro {self.__numero} - Superficie: {self.__superficie}\n"
         texto += "Turnos ocupados:\n"
         for turno in self.__listadeturnos:
