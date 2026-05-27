@@ -40,7 +40,9 @@ class Cancha:
         for turno in self.__listadeturnos:
             texto += f"  - {turno}\n"
         texto += "Turnos libres:\n"
-        ocupados = [turno.horario.hour for turno in self.__listadeturnos]
+        ocupados = []
+        for turno in self.__listadeturnos:
+            ocupados.append(turno.horario.hour)
         for hora in range(14, 24):
             if hora not in ocupados:
                 texto += f"  - {hora}:00\n"
