@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pablo\\OneDrive\\Escritorio\\TPSPOO\\TP6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5E913-AFA6-5735-CC86-1A68F3C1B728}|TP6.csproj|c:\\users\\pablo\\onedrive\\escritorio\\tpspoo\\tp6\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5E913-AFA6-5735-CC86-1A68F3C1B728}|TP6.csproj|solutionrelative:bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5E913-AFA6-5735-CC86-1A68F3C1B728}|TP6.csproj|c:\\users\\pablo\\onedrive\\escritorio\\tpspoo\\tp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5E913-AFA6-5735-CC86-1A68F3C1B728}|TP6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5E913-AFA6-5735-CC86-1A68F3C1B728}|TP6.csproj|c:\\users\\pablo\\onedrive\\escritorio\\tpspoo\\tp6\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5E913-AFA6-5735-CC86-1A68F3C1B728}|TP6.csproj|solutionrelative:auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5E913-AFA6-5735-CC86-1A68F3C1B728}|TP6.csproj|c:\\users\\pablo\\onedrive\\escritorio\\tpspoo\\tp6\\edificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5E913-AFA6-5735-CC86-1A68F3C1B728}|TP6.csproj|solutionrelative:edificio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C5E913-AFA6-5735-CC86-1A68F3C1B728}|TP6.csproj|c:\\users\\pablo\\onedrive\\escritorio\\tpspoo\\tp6\\impactoecologico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C5E913-AFA6-5735-CC86-1A68F3C1B728}|TP6.csproj|solutionrelative:impactoecologico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImpactoEcologico.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\TPSPOO\\TP6\\ImpactoEcologico.cs",
+              "RelativeDocumentMoniker": "ImpactoEcologico.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\TPSPOO\\TP6\\ImpactoEcologico.cs",
+              "RelativeToolTip": "ImpactoEcologico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T12:38:30.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\TPSPOO\\TP6\\Bicicleta.cs",
+              "RelativeDocumentMoniker": "Bicicleta.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\TPSPOO\\TP6\\Bicicleta.cs",
+              "RelativeToolTip": "Bicicleta.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T12:29:38.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\TPSPOO\\TP6\\Auto.cs",
+              "RelativeDocumentMoniker": "Auto.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\TPSPOO\\TP6\\Auto.cs",
+              "RelativeToolTip": "Auto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T12:28:44.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edificio.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\TPSPOO\\TP6\\Edificio.cs",
+              "RelativeDocumentMoniker": "Edificio.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\TPSPOO\\TP6\\Edificio.cs",
+              "RelativeToolTip": "Edificio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wB0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T12:26:15.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\TPSPOO\\TP6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\TPSPOO\\TP6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T01:14:09.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

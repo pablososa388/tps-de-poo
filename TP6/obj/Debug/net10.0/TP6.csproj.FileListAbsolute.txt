@@ -1,0 +1,14 @@
+C:\Users\pablo\OneDrive\Escritorio\TPSPOO\TP6\bin\Debug\net10.0\TP6.exe
+C:\Users\pablo\OneDrive\Escritorio\TPSPOO\TP6\bin\Debug\net10.0\TP6.deps.json
+C:\Users\pablo\OneDrive\Escritorio\TPSPOO\TP6\bin\Debug\net10.0\TP6.runtimeconfig.json
+C:\Users\pablo\OneDrive\Escritorio\TPSPOO\TP6\bin\Debug\net10.0\TP6.dll
+C:\Users\pablo\OneDrive\Escritorio\TPSPOO\TP6\bin\Debug\net10.0\TP6.pdb
+C:\Users\pablo\OneDrive\Escritorio\TPSPOO\TP6\obj\Debug\net10.0\TP6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Escritorio\TPSPOO\TP6\obj\Debug\net10.0\TP6.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\TPSPOO\TP6\obj\Debug\net10.0\TP6.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Escritorio\TPSPOO\TP6\obj\Debug\net10.0\TP6.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\TPSPOO\TP6\obj\Debug\net10.0\TP6.dll
+C:\Users\pablo\OneDrive\Escritorio\TPSPOO\TP6\obj\Debug\net10.0\refint\TP6.dll
+C:\Users\pablo\OneDrive\Escritorio\TPSPOO\TP6\obj\Debug\net10.0\TP6.pdb
+C:\Users\pablo\OneDrive\Escritorio\TPSPOO\TP6\obj\Debug\net10.0\TP6.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Escritorio\TPSPOO\TP6\obj\Debug\net10.0\ref\TP6.dll
